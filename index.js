@@ -1,7 +1,7 @@
-console.log("hhhhhh");
-console.log("aaaaaaa");  
+console.log("git add .");
+console.log("git commit -m "abc");  
 
-console.log(".....");
+console.log("git push origin master");
 
 console.log("..ffff");
 
