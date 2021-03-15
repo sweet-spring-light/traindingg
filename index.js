@@ -3,7 +3,7 @@ console.log("git commit -m "abc");
 
 console.log("git push origin master");
 
-console.log("..ffff");
+console.log("yeeeeee");
 
 console.log('123456');
 
